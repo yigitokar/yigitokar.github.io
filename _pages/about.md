@@ -13,7 +13,8 @@ redirect_from:
 </p>
 
 * I am an Economics PhD student at [University of Washington](https://econ.washington.edu/).
-* Prior to this, I did my Bachelor Degree (with Honours) in Electrical and Electronics Engineering with a minor in Economics at Bogazici University where my research advisor was Professor Burak Saltoglu.
-* You can view my CV [here](yigitokar.github.io/files/CV.pdf).
+* Prior to this, I did my Bachelor Degree (with Honours) in Electrical and Electronics Engineering with a minor in Economics at and my MA in Economics at Bogazici University where my research advisor was Professor Burak Saltoglu.
+* You can view my CV [here](yigitokar.github.io/files/YigitOkarResume.pdf).
+
 
 
