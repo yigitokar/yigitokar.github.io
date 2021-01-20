@@ -1,7 +1,7 @@
 ---
-title: "Teaching experience 1"
+title: "Graduate Courses"
 collection: teaching
-type: "Graduate course"
+type: "Teaching Assistant"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Washington, Department of Economics"
 date: 2021-01-01
