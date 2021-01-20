@@ -8,7 +8,7 @@ date: 2021-01-01
 location: "Seattle, WA"
 ---
 
-- #### ECONOMETRICS II (Graduate Level)
+- ### ECONOMETRICS II 
 
  - Linear Regression Basics
  - Large Sample Theory
