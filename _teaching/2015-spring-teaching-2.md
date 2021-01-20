@@ -4,7 +4,7 @@ collection: teaching
 type: " "
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of Washington, Department"
-date: 2018-
+date: 2018-09-01
 location: "Seattle, WA"
 ---
 
