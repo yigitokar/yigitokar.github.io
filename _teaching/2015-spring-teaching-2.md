@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Undergraduate Courses"
 collection: teaching
-type: "DENEME"
+type: " "
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of Washington, Department"
-date: 2015-01-01
-location: "City, Country"
+date: 2018-
+location: "Seattle, WA"
 ---
 
 - Introduction to Microeconomics - ECON 200
