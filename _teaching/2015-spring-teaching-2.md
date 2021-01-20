@@ -8,6 +8,6 @@ date: 2018-09-01
 location: "Seattle, WA"
 ---
 
-- #### Introduction to Microeconomics - ECON 200
-- #### Introduction to Macroeconomics - ECON 201
+- ### Introduction to Microeconomics - ECON 200
+- ### Introduction to Macroeconomics - ECON 201
 
