@@ -1,7 +1,7 @@
 ---
 title: "Undergraduate Courses"
 collection: teaching
-type: " "
+type: ""
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of Washington, Department"
 date: 2018-09-01
